@@ -1,0 +1,73 @@
+[
+    {
+      "destination": "Sydney, Australia",
+      "desc": "Sydney is both a laid-back beachside town and a thriving metropolis that boasts some of the Southern Hemisphere's best surf, landmarks and activities. Whether you're looking to watch a show at the iconic Opera House, take to the waves at Bondi Beach or explore trendy areas like The Rocks and Darling Harbour, Sydney features something for everyone.",
+      "section": "adventure",
+      "image": "sydney",
+      "counter": "1"
+    },
+    {
+      "destination": "Basel, Switzerland",
+      "desc": "Basel is wonderful, wonderful, wonderful. Come for the weekend and stay forever! You can go to the theatre, the ballet, the orchestra, go to museums on pretty much anything, tour church steeples or the underground, then eat to your heart's content with food from every continent.",
+      "section": "city",
+      "image":"basel",
+      "counter": "2"
+      },
+    {
+      "destination": "Santorini, Greece",
+      "desc": "Santorini is the supermodel of the Greek islands, a head-turner whose face is instantly recognizable around the world: multicolored cliffs soar out of a sea-drowned volcanic crater, topped by whitewashed buildings. It has a widely known reputation for dazzling panoramas, romantic sunsets and volcanic-sand beaches.",
+      "section": "adventure",
+      "image":"santorini",
+      "counter": "3"
+    }, 
+    {
+      "destination": "Rainbow Mountain, Peru",
+      "desc": "A visit to Rainbow Mountain, known locally as Vinicunca (its Quechua name) or the montaña de siete colores (seven-colored mountain), is an absolute must for all those who love stunning landscapes and gorgeous scenery nestled in a remote region of the Andes Mountains.",
+      "section": "adventure",
+      "image":"peru",
+      "counter": "4"
+    },
+    {
+      "destination": "Amalfi Coast, Italy",
+      "desc": "Italy's Amalfi Coast boasts a classic Mediterranean landscape, a sensual blend of both natural and cultural wonders. The breathtaking terrain includes dramatic coastline topography scattered with terraced vineyards, orchards, and pastures—often with enchanting views of the vibrant waters below.",
+      "section": "adventure",
+      "image":"amalfi",
+      "counter": "5"
+    }, 
+    {
+      "destination": "Tokyo, Japan",
+      "desc": "Tokyo is Japan's capital and the world's most populous metropolis. ... Today, Tokyo offers a seemingly unlimited choice of shopping, entertainment, culture and dining to its visitors. The city's history can be appreciated in districts such as Asakusa and in many excellent museums, historic temples and gardens.",
+      "section": "city",
+      "image":"tokyo",
+      "counter": "6"
+    }, 
+    {
+      "destination": "Victoria Falls, Zambia",
+      "desc": "Victoria Falls presents a spectacular sight of awe-inspiring beauty and grandeur on the Zambezi River, forming the border between Zambia and Zimbabwe. It was described by the Kololo tribe living in the area in the 1800s as ‘Mosi-oa-Tunya’ – ‘The Smoke that Thunders’. In more modern terms Victoria Falls is known as the greatest curtain of falling water in the world.",
+      "section": "adventure",
+      "image":"falls",
+      "counter": "7"
+    }, 
+    {
+      "destination": "Kauai, Hawaii",
+      "desc": "Kauai is the oldest and northernmost island in the Hawaiian chain. It boasts 90 miles of spectacular coastline and has more beaches per mile than any other Hawaiian Island. Ninety-seven percent of Kauai is covered by forests or mountain ranges, making it the greenest of all the Hawaiin Islands!",
+      "section": "adventure",
+      "image":"kauai",
+      "counter": "8"
+    }, 
+    {
+      "destination": "Petra, Jordan",
+      "desc": "The ancient city of Petra is one of Jordan’s national treasures and by far its best known tourist attraction. Petra is the legacy of the Nabataeans, an industrious Arab people who settled in southern Jordan more than 2,000 years ago. Admired then for its refined culture, massive architecture and ingenious complex of dams and water channels, Petra is a UNESCO World Heritages Site and one of the new Seven Wonders of the World.",
+      "section": "adventure",
+      "image":"petra",
+      "counter": "9"
+    }, 
+    {
+      "destination": "Barcelona, Spain",
+      "desc": "Nestled along the sparkling Medetearrean Sea in northeastern Spain, Barcelona is a colorful melting pot of culture, full of world-renowned cuisine, legendary art, music, and more. You'll spend your days exploring the dynamic barrios, wandering along the beach, strolling through verdant green spaces, and discovering gem after gem—some well known, like Park Güell or Camp Nou, and some hidden, like Santa Caterina.",
+      "section": "city",
+      "image":"barcelona",
+      "counter": "10"
+    }
+
+]
